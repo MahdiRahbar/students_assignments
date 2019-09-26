@@ -1,7 +1,7 @@
 // Session1.cpp: Mahdi Rahbar
 // A collection of code snippets with their corresponding problems
 
-// #include "stdafx.h"
+// #include "stdafx.h"  // This library tells MVStudio to not compile the file if a precompiled version exists.
 #include <iostream>
 
 // int main(){   // write a program which it gets two input numbers and print the sum of them as an output
